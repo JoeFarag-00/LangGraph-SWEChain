@@ -1,0 +1,6 @@
+langchain-groq
+langchain-core
+python-dotenv
+langgraph
+# langmem # Removed as import is causing issues
+langsmith 
